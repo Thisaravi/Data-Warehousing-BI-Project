@@ -13,15 +13,21 @@ Building interactive Power BI dashboards for reporting and decision support.
 🛠️ Technologies & Tools
 
 Database: Microsoft SQL Server
+
 OLAP: SQL Server Analysis Services (SSAS)
+
 Data Visualization: Excel PivotTables, Power BI
+
 Languages/Querying: SQL, DAX 
 
 📑 Features Implemented
 
 ✅ Data Warehouse Design – Fact and Dimension tables
+
 ✅ SSAS Cube – Measures, hierarchies, and connections
+
 ✅ OLAP Operations – Roll-up, Drill-down, Slice, Dice, Pivot (via Excel)
+
 ✅ Power BI Reports –
 Matrix report with row/column grouping
 Drill-down reports (Year → Quarter → Month)
