@@ -1,6 +1,7 @@
 # Data-Warehousing-BI-Project
 This project demonstrates the design and implementation of a Data Warehouse and Business Intelligence solution using SQL Server, SSAS, Excel, and Power BI.
 
+
 🚀 Project Overview
 
 The project focuses on building an end-to-end data warehouse system and applying OLAP analysis and data visualization techniques to extract meaningful insights.
@@ -15,6 +16,7 @@ Performing OLAP operations (Roll-up, Drill-down, Slice, Dice, Pivot) using Excel
 
 Building interactive Power BI dashboards for reporting and decision support.
 
+
 🛠️ Technologies & Tools
 
 Database: Microsoft SQL Server
@@ -24,6 +26,7 @@ OLAP: SQL Server Analysis Services (SSAS)
 Data Visualization: Excel PivotTables, Power BI
 
 Languages/Querying: SQL, DAX 
+
 
 📑 Features Implemented
 
